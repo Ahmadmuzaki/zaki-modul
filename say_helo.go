@@ -1,5 +1,5 @@
 package zaki_modul
 
 func SayHello() string {
-	return "Hello"	
+	return "Hello Zaki"	
 }
